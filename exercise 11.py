@@ -3,6 +3,7 @@
 
 number = 7536
 original_number = number
+print("original number is", number)
 
 reverse_number = 0
 count = 0
